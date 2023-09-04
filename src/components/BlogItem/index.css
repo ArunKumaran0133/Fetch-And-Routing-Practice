@@ -1,0 +1,39 @@
+.image-blog-item {
+  height: 180px;
+  width: 270px;
+  margin-right: 20px;
+}
+
+.avatar-logo {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.topic-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #8e8e8e;
+}
+
+.title-text {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #000000;
+}
+
+.author-logo-text-container {
+  display: flex;
+  align-items: center;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.link-text {
+  text-decoration: none;
+}
